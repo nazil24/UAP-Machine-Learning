@@ -33,8 +33,31 @@ Preprocessing yang dilakukan adalah menentukan parameter gambar menggunakan h, w
 Hasil dari model yang telah dibangun, sebagai berikut:
 ### *Convolutional Neural Network (CNN)*
 ![image](https://github.com/user-attachments/assets/83aa275c-71e4-4ca4-9158-2d6eda31e518)
-### *Model Evaluation*
+#### *Model Evaluation*
 ![image](https://github.com/user-attachments/assets/daec0b40-feab-467e-a540-7dd08da9d683)
+Model ini kurang efektif dalam membangun model dikarenakan, Akurasi training yang rendah dan loss training yang turun tetapi tidak memadai menunjukkan bahwa model tidak cukup kompleks untuk memahami pola data (underfitting). Ketidakstabilan akurasi validasi mungkin disebabkan oleh ukuran batch kecil, data validasi yang tidak representatif, atau model terlalu sensitif terhadap perubahan kecil.
+
+![image](https://github.com/user-attachments/assets/f20022eb-ecbc-4d82-90f0-2eeea1ae574c)
+Gambar diatas merupakan *Classification Report* dari model dan menunjukkan akurasi yang kurang memuaskan yaitu 25%. 
+
+## *Pre-Trained VGG16*
+![image](https://github.com/user-attachments/assets/3f6986c6-4623-4014-8169-a6857fc9fb9c)
+Gambar diatas menunjukkan bahwa model ini sangat baik dalam mempelajari pola data training dan mampu melakukan generalisasi ke data validasi. Hasil ini menunjukkan bahwa model siap digunakan pada data test atau data baru lainnya untuk evaluasi akhir.
+
+![image](https://github.com/user-attachments/assets/a5d6c147-e6f2-4394-a914-c9998583c969)
+Gambar diatas merupakan *Classification Report* dari model dan menunjukkan akurasi yang sangat baik yaitu 100%
+
+# Overview Web Deployment\
+## Tampilan Homepage 
+![image](https://github.com/user-attachments/assets/ae832827-d3c1-4d39-b0aa-6afb5be56ce6)
+
+# Prediction Citra 
+![image](https://github.com/user-attachments/assets/c63aa81a-8a72-4950-9fab-140668871209)
+
+#Author
+@nazil24
+
+
 
 
 
