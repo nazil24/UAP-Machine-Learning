@@ -14,6 +14,8 @@ Foto biji kopi diambil menggunakan iPhone 12 Mini dengan kamera belakang 12 mega
 Eksperimen menggunakan pencahayaan LED dari kotak cahaya serta cahaya alami. Untuk meningkatkan noise, setiap jenis biji kopi diletakkan di dalam wadah saat difoto. Gambar dikumpulkan secara otomatis dan disimpan dalam format PNG dengan resolusi 3024x3032 piksel.
 
 Dataset terdiri dari total 4800 foto yang diklasifikasikan ke dalam empat tingkat pemanggangan, dengan masing-masing tingkat terdiri dari 1200 foto."
+![image](https://github.com/user-attachments/assets/5a9da806-da88-4704-81b6-7ee1ef98bf10)
+
 
 # Model 
 Proyek ini menggunakan model pendekatan Convolutional Neural Network (CNN) dan Pre-trained VGG16.
