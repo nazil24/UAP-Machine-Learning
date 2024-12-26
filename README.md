@@ -55,7 +55,7 @@ Model yang digunakan untuk streamlit: https://drive.google.com/drive/folders/10o
 # Prediction Citra 
 ![image](https://github.com/user-attachments/assets/c63aa81a-8a72-4950-9fab-140668871209)
 
-#Author
+# Author
 @nazil24
 
 
