@@ -23,3 +23,18 @@ Proyek ini menggunakan model pendekatan Convolutional Neural Network (CNN) dan P
 
 ## *Pre-Trained VGG16*
 ![image](https://github.com/user-attachments/assets/8fe633f1-7efd-4153-bdbb-9a1cf0524b41)
+
+
+# Preprocessing dan Model
+## Preprocessing 
+Preprocessing yang dilakukan adalah menentukan parameter gambar menggunakan h, w (224, 224), dan menentukan epoch yang digunakan yaitu 20 epoch. 
+
+## Model dan Hasil 
+Hasil dari model yang telah dibangun, sebagai berikut:
+### *Convolutional Neural Network (CNN)*
+![image](https://github.com/user-attachments/assets/83aa275c-71e4-4ca4-9158-2d6eda31e518)
+### *Model Evaluation*
+![image](https://github.com/user-attachments/assets/daec0b40-feab-467e-a540-7dd08da9d683)
+
+
+
