@@ -40,14 +40,23 @@ Hasil dari model yang telah dibangun, sebagai berikut:
 Model ini kurang efektif dalam membangun model dikarenakan, Akurasi training yang rendah dan loss training yang turun tetapi tidak memadai menunjukkan bahwa model tidak cukup kompleks untuk memahami pola data (underfitting). Ketidakstabilan akurasi validasi mungkin disebabkan oleh ukuran batch kecil, data validasi yang tidak representatif, atau model terlalu sensitif terhadap perubahan kecil.
 
 ![image](https://github.com/user-attachments/assets/f20022eb-ecbc-4d82-90f0-2eeea1ae574c)
+
 Gambar diatas merupakan *Classification Report* dari model dan menunjukkan akurasi yang kurang memuaskan yaitu 25%. 
+
+### Confusion Matrix 
+![image](https://github.com/user-attachments/assets/5879d886-8312-4e6b-aa8a-5eff05e3eded)
 
 ## *Pre-Trained VGG16*
 ![image](https://github.com/user-attachments/assets/3f6986c6-4623-4014-8169-a6857fc9fb9c)
 Gambar diatas menunjukkan bahwa model ini sangat baik dalam mempelajari pola data training dan mampu melakukan generalisasi ke data validasi. Hasil ini menunjukkan bahwa model siap digunakan pada data test atau data baru lainnya untuk evaluasi akhir.
 
 ![image](https://github.com/user-attachments/assets/a5d6c147-e6f2-4394-a914-c9998583c969)
+
 Gambar diatas merupakan *Classification Report* dari model dan menunjukkan akurasi yang sangat baik yaitu 100%
+
+### Confusion Matrix 
+![image](https://github.com/user-attachments/assets/5f91c352-6edd-473f-a399-1d78da87363b)
+
 
 # Overview Web Deployment
 Model yang digunakan untuk streamlit: https://drive.google.com/drive/folders/10oAGc4IpMhhBcWAadVFSIQ5aWzQtmRTI?usp=sharing
