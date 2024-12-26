@@ -18,4 +18,8 @@ Dataset terdiri dari total 4800 foto yang diklasifikasikan ke dalam empat tingka
 # Model 
 Proyek ini menggunakan model pendekatan Convolutional Neural Network (CNN) dan Pre-trained VGG16.
 ## *Convolutional Neural Network (CNN)*
+
 ![image](https://github.com/user-attachments/assets/f5469ea0-c65d-4786-a8a6-4352e8bae62d)
+
+## *Pre-Trained VGG16*
+![image](https://github.com/user-attachments/assets/8fe633f1-7efd-4153-bdbb-9a1cf0524b41)
