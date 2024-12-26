@@ -47,7 +47,7 @@ Gambar diatas menunjukkan bahwa model ini sangat baik dalam mempelajari pola dat
 ![image](https://github.com/user-attachments/assets/a5d6c147-e6f2-4394-a914-c9998583c969)
 Gambar diatas merupakan *Classification Report* dari model dan menunjukkan akurasi yang sangat baik yaitu 100%
 
-# Overview Web Deployment\
+# Overview Web Deployment
 ## Tampilan Homepage 
 ![image](https://github.com/user-attachments/assets/ae832827-d3c1-4d39-b0aa-6afb5be56ce6)
 
